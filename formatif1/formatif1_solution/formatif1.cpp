@@ -62,6 +62,8 @@ int main()
 //----------------------------------------------------------------------------------------
 char AfficherMenu()
 {
+	// C'est ici que le menu principal est géré
+
 	char choix;
 	ClrScr();
 	Gotoxy(15, 4);
